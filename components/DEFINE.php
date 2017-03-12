@@ -1,0 +1,10 @@
+<?php
+
+define('PAGINATION_10',10);
+define('PAGINATION_100',100);
+define('PAGINATION_200',200);
+define('PAGINATION_500',500);
+define('PAGINATION_1000',1000);
+define('PAGINATION_DOING',1000);
+define('PAGINATION_ALL','Все');
+
